@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Computer Science and Engineer from India</h3>
 
-- 🔭 I’m currently working on **Crowd Funding Platform**
+- 🔭 I’m currently working on **Ticket Reselling Platform using Blockchain**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
